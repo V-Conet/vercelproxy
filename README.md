@@ -31,7 +31,6 @@ Waiting for deploy process
 The domain vercel for you
 
 In 2022, the vercel domain name in mainland China will be polluted by DNS, so you should register a domain name in mainland China. Usually, novices on major domain name platforms can get a domain name with one-year usage rights for 1 yuan.
-
 ![Vercel Domain](./asset/230030.jpg)
 
 3、Register your own domain name and perform real-name registration according to the real-name registration rules of the domain name manager
